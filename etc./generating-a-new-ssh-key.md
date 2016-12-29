@@ -15,3 +15,10 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 sh-add ~/.ssh/id_rsa
 ```
+
+6. modify .ssh/config
+```
+$ vim ~/.ssh/config
+Host github.com
+    IdentityFile ~/.ssh/github_id_rsa
+```
