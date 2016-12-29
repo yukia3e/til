@@ -11,7 +11,7 @@ Elementwise softplus function.
 
 
 ## softplus
-ソフトプラス関数。   
+ソフトプラス関数。
 $\varphi (x) = log(1+e^x)$
 
 
@@ -24,4 +24,8 @@ $\varphi (x) = log(1+e^x)$
 
 
 ## matmul
-行列乗算
+行列乗算  
+
+
+## tessellation
+テッセレーション。ポリゴンメッシュをさらに分割して表現することで、画像をより詳細かつ滑らかで現実感のあるものにする技術。
