@@ -26,6 +26,8 @@
 ### Artistic Networks（アート関連）
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.jogtidod4)(https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.jogtidod4)
 
+- [AI DJ 技術解説 – 9/4「2045」at OKAZAKI LOOPS #2](http://naotokui.net/2016/09/2045-okazakiloops-2/)(http://naotokui.net/2016/09/2045-okazakiloops-2/)
+
 - [ディープネットワークを用いた大域特徴と局所特徴の学習による白黒写真の自動色付け](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/ja/)(http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/ja/)
 
 - [ラフスケッチの自動線画化](http://hi.cs.waseda.ac.jp/~esimo/ja/research/sketch/)(http://hi.cs.waseda.ac.jp/~esimo/ja/research/sketch/)
@@ -153,7 +155,19 @@
 - [CODE BLUE 2016 - 機械学習でWebアプリケーションの脆弱性を見つける方法](http://www.slideshare.net/babaroa/code-blue-2016-web)(http://www.slideshare.net/babaroa/code-blue-2016-web)
 
 
+### Survey
+- [Arxiv](http://www.arxiv-sanity.com/)(http://www.arxiv-sanity.com/)
+
+- [gitXiv](http://www.gitxiv.com/)(http://www.gitxiv.com/)
+
+- [arXivTimes](https://twitter.com/arxivtimes)(https://twitter.com/arxivtimes)
+
+
+
+
 ### etc.
+- [Nao Tokui - 「AIとのつきあい方」 – コンテンツ東京2016での講演](http://naotokui.net/2016/07/alienintelligence_contentstokyo/)(http://naotokui.net/2016/07/alienintelligence_contentstokyo/)
+
 - [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)(https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
 
 
