@@ -24,6 +24,8 @@
 
 
 ### Artistic Networks（アート関連）
+- [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.jogtidod4)(https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.jogtidod4)
+
 - [ディープネットワークを用いた大域特徴と局所特徴の学習による白黒写真の自動色付け](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/ja/)(http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/ja/)
 
 - [ラフスケッチの自動線画化](http://hi.cs.waseda.ac.jp/~esimo/ja/research/sketch/)(http://hi.cs.waseda.ac.jp/~esimo/ja/research/sketch/)
@@ -154,6 +156,13 @@
 ### etc.
 - [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)(https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
 
+
 *****
+### Playground
+- [Tensorflow :A Neural Network Playground](http://playground.tensorflow.org/)(http://playground.tensorflow.org/)
+
+- [Chainer Playground](https://play.chainer.org/)(https://play.chainer.org/)
+
+
 ### Dataset
 - [音声資源コンソーシアム 音声コーパスリスト](http://research.nii.ac.jp/src/list.html)(http://research.nii.ac.jp/src/list.html)
