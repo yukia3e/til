@@ -11,6 +11,10 @@
 
 - [ニューラルネットワークと深層学習](https://nnadl-ja.github.io/nnadl_site_ja/index.html)(https://nnadl-ja.github.io/nnadl_site_ja/index.html)
 
+- [ニューラルネットワーク入門](http://www.slideshare.net/naotomoriyama/ss-62582878)  
+→ ニューラルネットワークの概要をまずはおさえたい人におすすめ
+
+
 - [Web開発におけるコンピュータサイエンス - 機械学習編1](http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-01-2016)(http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-01-2016)
 
 - [Web開発におけるコンピュータサイエンス - 機械学習編2](http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)(http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)  
@@ -116,7 +120,11 @@
 - [Latent Dirichlet Allocation ゆるふわ入門](https://abicky.net/2013/03/12/230747/)(https://abicky.net/2013/03/12/230747/)
 
 
-### word2vec
+### 自然言語処理（word2vec）
+-[自然言語処理](http://www.slideshare.net/naotomoriyama/ss-63631935)
+
+- [自然言語処理 Word2vec](http://www.slideshare.net/naotomoriyama/word2vec-65668036)
+
 - [Statistical Semantic入門 ~分布仮説からword2vecまで~](http://www.slideshare.net/unnonouno/20140206-statistical-semantics)(http://www.slideshare.net/unnonouno/20140206-statistical-semantics)
 
 - [Word2Vec のニューラルネットワーク学習過程を理解する](http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/?utm_source=dlvr.it&utm_medium=twitter)(http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/?utm_source=dlvr.it&utm_medium=twitter)
@@ -126,7 +134,7 @@
 - [pixiv小説で機械学習したらどうなるのっと【学習済みモデルデータ配布あり】](http://inside.pixiv.net/entry/2016/09/13/161454)(http://inside.pixiv.net/entry/2016/09/13/161454)
 
 
-### Language Processing(RNN・LSTM)
+### RNN・LSTM
 - [ニューラルネット勉強会（LSTM編）(pdf)](http://isw3.naist.jp/~neubig/student/2015/seitaro-s/161025neuralnet_study_LSTM.pdf)(http://isw3.naist.jp/~neubig/student/2015/seitaro-s/161025neuralnet_study_LSTM.pdf)
 
 - [深層学習時代の自然言語処理(slideshare)](http://www.slideshare.net/unnonouno/ss-43844132)(http://www.slideshare.net/unnonouno/ss-43844132)
