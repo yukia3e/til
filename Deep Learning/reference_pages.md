@@ -60,35 +60,6 @@
 - [Magenta wins "Best Demo" at NIPS 2016!](https://magenta.tensorflow.org/2016/12/16/nips-demo/)
 
 
-### Ensemble Learning（アンサンブル学習）
-※ 超訳：複数の学習器を組み合わせて性能を向上させる考え方
-- [アンサンブル学習(slideshare)](http://www.slideshare.net/holidayworking/ss-11948523)(http://www.slideshare.net/holidayworking/ss-11948523)
-
-
-### Reinforcement Learning（強化学習）
-- [ゼロからDeepまで学ぶ強化学習(qiita)](http://qiita.com/icoxfog417/items/242439ecd1a477ece312)(http://qiita.com/icoxfog417/items/242439ecd1a477ece312)
-
-- [DQNの生い立ち　＋　Deep Q-NetworkをChainerで書いた(qiita)](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)(http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
-
-- [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
-
-
-### Transfer Learning（転移学習）
-- [Kerasで学ぶ転移学習](https://elix-tech.github.io/ja/2016/06/22/transfer-learning-ja.html)(https://elix-tech.github.io/ja/2016/06/22/transfer-learning-ja.html)
-
-
-### L1-norm, L2-norm（L1正則化、L2正則化）
-- [ニューラルネットワークの学習の改善](https://nnadl-ja.github.io/nnadl_site_ja/chap3.html)(https://nnadl-ja.github.io/nnadl_site_ja/chap3.html)
-
-
-### RBM（制約ボルツマシン）
-- [RBMから考えるDeep Learning　～黒魔術を添えて～](http://qiita.com/t_Signull/items/f776aecb4909b7c5c116)(http://qiita.com/t_Signull/items/f776aecb4909b7c5c116)
-
-
-### autoencoder（オートエンコーダー）
-- [岡谷貴之著「深層学習」の理解を助ける補助資料（第5章）](http://artificial-intelligence.hateblo.jp/entry/2016/10/14/080000)(http://artificial-intelligence.hateblo.jp/entry/2016/10/14/080000)
-
-
 ### Image Recognition（画像認識）
 - [Deep Learningと画像認識　～歴史・理論・実践～](http://www.slideshare.net/nlab_utokyo/deep-learning-40959442)(http://www.slideshare.net/nlab_utokyo/deep-learning-40959442)
 
@@ -108,16 +79,6 @@
 
 ### Speech Recognition（音声認識）
 - [音声認識の基礎(slideshare)](http://www.slideshare.net/akinoriito549/ss-23821600)(http://www.slideshare.net/akinoriito549/ss-23821600)
-
-
-### LSI
-- [潜在的意味インデキシング（LSI）徹底入門](https://abicky.net/2012/03/24/211818/)(https://abicky.net/2012/03/24/211818/)
-
-- [トピックモデル](http://www.albert2005.co.jp/technology/machine_learning/topic_model.html)(http://www.albert2005.co.jp/technology/machine_learning/topic_model.html)
-
-
-### LDA
-- [Latent Dirichlet Allocation ゆるふわ入門](https://abicky.net/2013/03/12/230747/)(https://abicky.net/2013/03/12/230747/)
 
 
 ### 自然言語処理（word2vec）
@@ -152,6 +113,45 @@
 - [「外部メモリ」理解のためのNeural Turing Machine入門(slideshare)](http://www.slideshare.net/naotomoriyama/ss-69549087)
 
 - [Differentiable neural conputers(slideshare)](http://www.slideshare.net/naotomoriyama/differentiable-neural-conputers)
+
+
+### Ensemble Learning（アンサンブル学習）
+※ 超訳：複数の学習器を組み合わせて性能を向上させる考え方
+- [アンサンブル学習(slideshare)](http://www.slideshare.net/holidayworking/ss-11948523)(http://www.slideshare.net/holidayworking/ss-11948523)
+
+
+### Reinforcement Learning（強化学習）
+- [ゼロからDeepまで学ぶ強化学習(qiita)](http://qiita.com/icoxfog417/items/242439ecd1a477ece312)(http://qiita.com/icoxfog417/items/242439ecd1a477ece312)
+
+- [DQNの生い立ち　＋　Deep Q-NetworkをChainerで書いた(qiita)](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)(http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
+
+- [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
+
+
+### Transfer Learning（転移学習）
+- [Kerasで学ぶ転移学習](https://elix-tech.github.io/ja/2016/06/22/transfer-learning-ja.html)(https://elix-tech.github.io/ja/2016/06/22/transfer-learning-ja.html)
+
+
+### L1-norm, L2-norm（L1正則化、L2正則化）
+- [ニューラルネットワークの学習の改善](https://nnadl-ja.github.io/nnadl_site_ja/chap3.html)(https://nnadl-ja.github.io/nnadl_site_ja/chap3.html)
+
+
+### RBM（制約ボルツマシン）
+- [RBMから考えるDeep Learning　～黒魔術を添えて～](http://qiita.com/t_Signull/items/f776aecb4909b7c5c116)(http://qiita.com/t_Signull/items/f776aecb4909b7c5c116)
+
+
+### autoencoder（オートエンコーダー）
+- [岡谷貴之著「深層学習」の理解を助ける補助資料（第5章）](http://artificial-intelligence.hateblo.jp/entry/2016/10/14/080000)(http://artificial-intelligence.hateblo.jp/entry/2016/10/14/080000)
+
+
+### LSI
+- [潜在的意味インデキシング（LSI）徹底入門](https://abicky.net/2012/03/24/211818/)(https://abicky.net/2012/03/24/211818/)
+
+- [トピックモデル](http://www.albert2005.co.jp/technology/machine_learning/topic_model.html)(http://www.albert2005.co.jp/technology/machine_learning/topic_model.html)
+
+
+### LDA
+- [Latent Dirichlet Allocation ゆるふわ入門](https://abicky.net/2013/03/12/230747/)(https://abicky.net/2013/03/12/230747/)
 
 
 ### Attention
