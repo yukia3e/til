@@ -141,6 +141,10 @@
 ### DNC(Differentiable neural computers)
 - [(Chainer) DNC(Differentiable Neural Computers)で文字列の学習&生成(Qiita)](http://qiita.com/hatoo@github/items/784fe8f5deea64e0ff73)(http://qiita.com/hatoo@github/items/784fe8f5deea64e0ff73)
 
+- [「外部メモリ」理解のためのNeural Turing Machine入門(slideshare)](http://www.slideshare.net/naotomoriyama/ss-69549087)
+
+- [Differentiable neural conputers(slideshare)](http://www.slideshare.net/naotomoriyama/differentiable-neural-conputers)
+
 
 ### Attention
 - [最近のDeep Learning (NLP) 界隈におけるAttention事情(slideshare)](http://www.slideshare.net/yutakikuchi927/deep-learning-nlp-attention)(http://www.slideshare.net/yutakikuchi927/deep-learning-nlp-attention)
