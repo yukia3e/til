@@ -1,21 +1,28 @@
 
 *****
-### Basic
+### Basic（理論関連）
 - [Machine Learning / cousera](https://www.coursera.org/learn/machine-learning)(https://www.coursera.org/learn/machine-learning)
 
-- [Neural Networks for Machine Learning / cousera](https://www.coursera.org/learn/neural-networks)(https://www.coursera.org/learn/neural-networks)
+- [Neural Networks for Machine Learning / cousera](https://www.coursera.org/learn/neural-networks)(https://www.coursera.org/learn/neural-networks)  
+→ couseraのコース、動画で体型的に学びたい人におすすめ（英語）
 
-- [Deep Learning Book(MIT)](http://www.deeplearningbook.org/)(http://www.deeplearningbook.org/)
+- [Deep Learning Book(MIT)](http://www.deeplearningbook.org/)(http://www.deeplearningbook.org/)  
+→ MITのDeep Learning Book（英語）
 
 - [ニューラルネットワークと深層学習](https://nnadl-ja.github.io/nnadl_site_ja/index.html)(https://nnadl-ja.github.io/nnadl_site_ja/index.html)
 
 - [Web開発におけるコンピュータサイエンス - 機械学習編1](http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-01-2016)(http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-01-2016)
 
-- [Web開発におけるコンピュータサイエンス - 機械学習編2](http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)(http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)
+- [Web開発におけるコンピュータサイエンス - 機械学習編2](http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)(http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)  
+→ はてなサマーインターンの講義資料として作成された教科書
 
 - [誤差逆伝播法のノート](http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c)(http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c)
 
+- [Recent Advances in Convolutional Neural Networks](https://arxiv.org/abs/1512.07108v5)  
+→ CNNのまとめ。構成方法から最適化手法、適用先についてなど、幅広くまとめられている。都度更新。
+
 ### GAN・DCGAN
+※ 超訳：“画像を生成するAI”を“真贋を見分けるAI”と競わせながらクオリティを上げていくネットワーク
 - [Convolutional Neural Networks のトレンド @WBAFLカジュアルトーク#2](http://www.slideshare.net/sheemap/convolutional-neural-networks-wbafl2)(http://www.slideshare.net/sheemap/convolutional-neural-networks-wbafl2)
 
 - [Adversarial Networks の画像生成に迫る @WBAFLカジュアルトーク#3](http://www.slideshare.net/sheemap/adversarial-networks-wbafl3)(http://www.slideshare.net/sheemap/adversarial-networks-wbafl3)
@@ -23,7 +30,7 @@
 - [生成モデルの Deep Learning(slideshare)](http://www.slideshare.net/beam2d/learning-generator)(http://www.slideshare.net/beam2d/learning-generator)
 
 
-### Artistic Networks（アート関連）
+### Artistic Networks（アート・音楽関連）
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.jogtidod4)(https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.jogtidod4)
 
 - [AI DJ 技術解説 – 9/4「2045」at OKAZAKI LOOPS #2](http://naotokui.net/2016/09/2045-okazakiloops-2/)(http://naotokui.net/2016/09/2045-okazakiloops-2/)
@@ -46,14 +53,20 @@
 
 - [Pokemon GAN](http://www.monthly-hack.com/entry/201612170000)(http://www.monthly-hack.com/entry/201612170000)
 
+- [Magenta wins "Best Demo" at NIPS 2016!](https://magenta.tensorflow.org/2016/12/16/nips-demo/)
+
 
 ### Ensemble Learning（アンサンブル学習）
+※ 超訳：複数の学習器を組み合わせて性能を向上させる考え方
 - [アンサンブル学習(slideshare)](http://www.slideshare.net/holidayworking/ss-11948523)(http://www.slideshare.net/holidayworking/ss-11948523)
 
 
 ### Reinforcement Learning（強化学習）
 - [ゼロからDeepまで学ぶ強化学習(qiita)](http://qiita.com/icoxfog417/items/242439ecd1a477ece312)(http://qiita.com/icoxfog417/items/242439ecd1a477ece312)
+
 - [DQNの生い立ち　＋　Deep Q-NetworkをChainerで書いた(qiita)](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)(http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
+
+- [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 
 
 ### Transfer Learning（転移学習）
@@ -82,11 +95,11 @@
 - [2016年の深層学習を用いた画像認識モデル](http://qiita.com/aiskoaskosd/items/59c49f2e2a6d76d62798)(http://qiita.com/aiskoaskosd/items/59c49f2e2a6d76d62798)
 
 
+
 ### ResNet（Deep Residual Learning）
 - [Deep Residual Learning for Image Recognition](http://qiita.com/supersaiakujin/items/935bbc9610d0f87607e8)(http://qiita.com/supersaiakujin/items/935bbc9610d0f87607e8)
 
 - [Deep Residual Learning(ResNet)の実装から比較するディープラーニングフレームワーク](http://www.iandprogram.net/entry/2016/06/06/180806)(http://www.iandprogram.net/entry/2016/06/06/180806)
-
 
 
 ### Speech Recognition（音声認識）
@@ -166,9 +179,23 @@
 
 
 ### etc.
-- [Nao Tokui - 「AIとのつきあい方」 – コンテンツ東京2016での講演](http://naotokui.net/2016/07/alienintelligence_contentstokyo/)(http://naotokui.net/2016/07/alienintelligence_contentstokyo/)
+- [Nao Tokui - 「AIとのつきあい方」 – コンテンツ東京2016での講演](http://naotokui.net/2016/07/alienintelligence_contentstokyo/)(http://naotokui.net/2016/07/alienintelligence_contentstokyo/)  
+→ AIとの未来について垣間見る記事
 
-- [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)(https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
+- [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)(https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)  
+→ 2016年の主要なDeepLearningの発展をまとめた資料
+
+- [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html)  
+→ The Google Brain teamの2016年の振り返り。teamの成果へのリンク集としても優れたポスト。
+
+- [We are the Google Brain team. We'd love to answer your questions about machine learning.](https://www.reddit.com/r/MachineLearning/comments/4w6tsv/ama_we_are_the_google_brain_team_wed_love_to/)  
+→ The Google Brain teamがredditに立てたディスカッション。machine learningについての質問に答えている。
+
+- [DeNAの機械学習・深層学習活用した体験提供の挑戦](http://www.slideshare.net/hamadakoichi/dena-deep-learning?1461827436870=1)  
+→ 機械学習・深層学習のWebサービスへの活用を検討する前に一度は読んでおきたい、DeNAのSlideshare。機械学習・深層学習でいかに“体験を最適化するか”。﻿
+
+- [社会参加型 (society-in-the-loop) 人工知能 ](https://joi.ito.com/jp/archives/2016/06/29/005605.html)  
+→ human-in-the-loopとsociety-in-the-loopについて
 
 
 *****
@@ -179,4 +206,7 @@
 
 
 ### Dataset
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)  
+→ 海外のオープンデータの中で、優れたものがまとめられているリンク集。githubで随時更新されている。
+
 - [音声資源コンソーシアム 音声コーパスリスト](http://research.nii.ac.jp/src/list.html)(http://research.nii.ac.jp/src/list.html)
