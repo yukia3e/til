@@ -25,6 +25,7 @@
 - [Recent Advances in Convolutional Neural Networks](https://arxiv.org/abs/1512.07108v5)  
 → CNNのまとめ。構成方法から最適化手法、適用先についてなど、幅広くまとめられている。都度更新。
 
+###
 ### GAN・DCGAN
 ※ 超訳：“画像を生成するAI”を“真贋を見分けるAI”と競わせながらクオリティを上げていくネットワーク
 - [Convolutional Neural Networks のトレンド @WBAFLカジュアルトーク#2](http://www.slideshare.net/sheemap/convolutional-neural-networks-wbafl2)(http://www.slideshare.net/sheemap/convolutional-neural-networks-wbafl2)
@@ -32,6 +33,9 @@
 - [Adversarial Networks の画像生成に迫る @WBAFLカジュアルトーク#3](http://www.slideshare.net/sheemap/adversarial-networks-wbafl3)(http://www.slideshare.net/sheemap/adversarial-networks-wbafl3)
 
 - [生成モデルの Deep Learning(slideshare)](http://www.slideshare.net/beam2d/learning-generator)(http://www.slideshare.net/beam2d/learning-generator)
+
+- [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)  
+→ AdversarialNetsに関する各種paperを分類・整理した資料
 
 
 ### Artistic Networks（アート・音楽関連）
