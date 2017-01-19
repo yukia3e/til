@@ -53,3 +53,28 @@ $\varphi (x) = log(1+e^x)$
 
 ## intuitively
 直感による、直感的な  
+
+
+## axon  
+軸索  
+
+## dendritic  
+樹枝状の
+
+## cortex  
+皮質
+
+## manifold  
+多岐にわたる、多様性  
+
+
+## perpendicular
+垂直
+
+
+## constraint
+強制、圧 迫、束縛、制約 するもの、窮屈な感じ、気がね
+
+
+## product
+積
